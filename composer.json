@@ -1,0 +1,11 @@
+{
+  "name": "lkorponai/crud",
+  "type": "library",
+  "description": "Simple CRUD system to manage objects.",
+  "keywords": ["crud", "object", "doctrine", ""],
+  "autoload": {
+    "psr-4": { "lkorponai\\CrudBundle\\": "" }
+  },
+  "require": {
+  }
+}
