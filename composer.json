@@ -1,11 +1,12 @@
 {
-  "name": "lkorponai/crud",
-  "type": "library",
+  "name": "lkorponai/crud-bundle",
+  "type": "package",
   "description": "Simple CRUD system to manage objects.",
-  "keywords": ["crud", "object", "doctrine", ""],
+  "keywords": ["crud", "object", "doctrine"],
   "autoload": {
     "psr-4": { "lkorponai\\CrudBundle\\": "" }
   },
   "require": {
+    "php": ">=5.3.9"
   }
 }
